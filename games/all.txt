@@ -1,8 +1,12 @@
 These are all the games you can play update me if there is a new game.
 
+Some of the games might not work b/c GitHub can't use 1 GB and over on their page upload
+
+If you try to play a game and it does not work go to the Issues page and report it.
+
 made by @timco307
 
-1v1lol
+- 1v1lol  *does not work b/c you can't log in so they will not let you play.*
 2048
 Minecraft
 adarkroom
